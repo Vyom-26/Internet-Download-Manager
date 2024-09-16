@@ -77,6 +77,8 @@ Internet-Download-Manager/
 3. **Multithreading:** Each file is downloaded concurrently using Java’s multithreading capabilities.
 4. **File Download:** A URL connection is opened, data is read in chunks using BufferedInputStream, and it is saved to a local directory using FileOutputStream.
 5. **Real-Time Updates:** The GUI updates in real time, showing the download status (e.g., "DOWNLOADING", "DONE", "FAILED") and progress percentage.
+![Screenshot 2024-09-16 220225](https://github.com/user-attachments/assets/64d23c45-192c-498a-a589-abb1d811caee)
+ 
 6. **Error Handling:** If a download fails, the status is set to "FAILED" and appropriate feedback is provided to the user.
 
 ---
