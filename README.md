@@ -2,6 +2,8 @@
 # Internet Download Manager
 
 An **Internet Download Manager (IDM)** built using Java that provides the capability to download multiple files concurrently. This application showcases the power of multithreading by managing multiple downloads simultaneously, offering a comprehensive solution for file downloads, complete with real-time progress tracking, error handling, and a user-friendly graphical interface.
+![Screenshot 2024-09-16 220051](https://github.com/user-attachments/assets/efd94eb5-7203-47dd-9627-a8ec159cbfb3)
+
 
 ---
 
