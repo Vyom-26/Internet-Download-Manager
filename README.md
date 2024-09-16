@@ -118,7 +118,9 @@ mvn clean install
 
 ### Testing the Application
    - To test the functionality, you can try downloading a sample file using the following URL:
-   - [Google Chrome Standalone Installer](https://dl.google.com/chrome/install/GoogleChromeStandaloneEnterprise64.msi)
+     ```
+     https://dl.google.com/chrome/install/GoogleChromeStandaloneEnterprise64.msi
+     ```
    - Simply paste this URL into the application and monitor the download progress to verify that the application is working correctly.
 ---
 
