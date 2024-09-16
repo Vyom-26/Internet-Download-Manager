@@ -193,5 +193,6 @@ Here's a video demonstration of the Internet Download Manager in action, showcas
 --- 
 # License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
- --- 
+ This project is licensed under the MIT License. See the LICENSE file for more details.
+ 
+--- 
