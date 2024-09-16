@@ -130,6 +130,10 @@ mvn clean install
 5. **UI Update:** The GUI updates the download status for each file ("DOWNLOADING," "DONE," "FAILED").
 6. **Completion:** Upon download completion, the status is updated. If any error occurs, it will be indicated on the GUI.
 
+![Screenshot 2024-09-16 220443](https://github.com/user-attachments/assets/a8e2f1ad-5de6-46f2-a2b5-20b6ccfaf7ab)
+*Illustrating multithreaded download management where the third download, despite starting later, completes before the second. This demonstrates the concurrent processing capabilities of the application.*
+
+
 ---
 
 # Classes Overview
